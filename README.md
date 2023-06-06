@@ -55,4 +55,4 @@ Get your GPG Key:
 18. Automatically sign all commits: ```$ git config --global commit.gpgsign true```
 
 
-
+For more information visit: https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key
